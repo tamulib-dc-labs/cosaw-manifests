@@ -11,7 +11,7 @@ iiif-prezi3 = "^3.0.0"
 python-magic = "^0.4.27"
 requests = "^2.32.5"
 iiif-prezi = "^0.3.0"
-iiif-downgrade = "0.1.1"
+iiif-downgrade = "0.1.2"
 
 
 [build-system]

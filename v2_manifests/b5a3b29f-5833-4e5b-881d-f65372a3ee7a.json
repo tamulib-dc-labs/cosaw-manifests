@@ -356,5 +356,14 @@
       ]
     }
   ],
+  "thumbnail": {
+    "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zL2I1YTNiMjlmLTU4MzMtNGU1Yi04ODFkLWY2NTM3MmEzZWU3YS9jb250ZW50;1/full/624,/0/default.jpg",
+    "service": {
+      "label": "IIIF Image Service",
+      "profile": "http://iiif.io/api/image/2/level0.json",
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": null
+    }
+  },
   "viewingHint": "paged"
 }

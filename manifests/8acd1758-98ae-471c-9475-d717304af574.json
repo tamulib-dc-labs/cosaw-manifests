@@ -34,6 +34,23 @@
         }
     ],
     "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzhhY2QxNzU4LTk4YWUtNDcxYy05NDc1LWQ3MTczMDRhZjU3NC9jb250ZW50;1/full/624,/0/default.jpg",
+            "type": "Image",
+            "height": 811,
+            "width": 624,
+            "service": [
+                {
+                    "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzhhY2QxNzU4LTk4YWUtNDcxYy05NDc1LWQ3MTczMDRhZjU3NC9jb250ZW50;1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "format": "image/jpeg"
+                }
+            ],
+            "format": "image/jpeg"
+        }
+    ],
     "behavior": [
         "paged"
     ],

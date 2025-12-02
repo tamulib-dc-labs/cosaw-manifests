@@ -260,13 +260,13 @@ all = ["flake8 (>=7.1.1)", "mypy (>=1.11.2)", "pytest (>=8.3.2)", "ruff (>=0.6.2
 
 [[package]]
 name = "iiif-downgrade"
-version = "0.1.1"
+version = "0.1.2"
 description = ""
 optional = false
 python-versions = "<4.0,>=3.12"
 files = [
-    {file = "iiif_downgrade-0.1.1-py3-none-any.whl", hash = "sha256:85bffc5754d85e890ff4b987806127e8a0cad078c6453a4cbac048fed3ef3330"},
-    {file = "iiif_downgrade-0.1.1.tar.gz", hash = "sha256:2be4227ae2507f03edb95ee39131fc4add0fe817cad9bfeba946c288dfda889f"},
+    {file = "iiif_downgrade-0.1.2-py3-none-any.whl", hash = "sha256:689e321da5a1ecc747900b8b2899045c113e55e4b29e6182d50d298098797e8c"},
+    {file = "iiif_downgrade-0.1.2.tar.gz", hash = "sha256:3acd1af8251e6d4b9fde754e2211ab66b88c2b342efe8676d0ee40bcfe2a3a88"},
 ]
 
 [[package]]
@@ -719,4 +719,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "6e5484ccd96e181bdf76408e68d9db75abc76922f621da9c6db06583e77c48a4"
+content-hash = "944b0c1491069096bb94f0663410557911ac25a98101b31111014e18d69a0db4"
