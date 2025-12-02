@@ -70,6 +70,7 @@ class COSAWManifest:
             )
             canvas.create_thumbnail_from_iiif(url=f"https://api.library.tamu.edu/iiif/2/{based};{i}/info.json")
             i += 1
+        manifest.create_thumbnail_from_iiif(url=f"https://api.library.tamu.edu/iiif/2/{based};1/info.json")
         manifest_json = manifest.json(indent=4)
         manifest_dict = json.loads(manifest_json)
         self.make_v2(
