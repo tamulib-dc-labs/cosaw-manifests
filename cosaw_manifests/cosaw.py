@@ -1,9 +1,8 @@
-from iiif_prezi3 import Manifest, KeyValueString
+from iiif_prezi3 import Manifest, KeyValueString, Collection
 from csv import DictReader
 import base64
 import magic
 import requests
-import json
 
 
 class COSAWManifest:
@@ -72,21 +71,26 @@ class COSAWManifest:
         x = manifest.json(indent=4)
         with open(f"manifests/{identifier}.json", 'w') as f:
             f.write(x)
-        # r = requests.get(f"https://api.library.tamu.edu/iiif/2/{based};1/full/full/0/default.jpg")
-        # if r.status_code == 200:
-        #     print(row['url'])
-        # else:
-        #     print(f"{r.status_code}: {row['url']}")
-
-        # mimetype = self.detect_mime_from_url(row['url'])
-        # print(mimetype)
+        return f"{manifest_id}.json", row["Title"],
 
 
 if __name__ == "__main__":
     with open('cosaw.csv', 'r') as f:
         reader = DictReader(f)
+        collection = Collection(
+            id="https://tamulib-dc-labs.github.io/cosaw-manifests/collections.json",
+            label="COSAW Bulletins",
+            type="Collection"
+        )
         for row in reader:
             if row['Is 200'] == 'y':
                 x = COSAWManifest(row)
-                x.build()
-
+                data = x.build()
+                collection.make_manifest(
+                    id=data[0],
+                    label=data[1],
+                    type="Manifest"
+                )
+        y = collection.json(indent=4)
+        with open("collections.json", 'w') as f:
+            f.write(y)

@@ -1,0 +1,147 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/collections.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "COSAW Bulletins"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a40467e2-edd2-4847-80af-c115032e4272.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 1, No. 1"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/0e9016f7-f9dd-413f-b671-f75d181cbb5e.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 1, No. 2"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8153bd76-3c33-4916-a4fb-6094184c65f7.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 1, No. 4"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 1, No. 5-6"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 2, No. 1"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 2, No. 2"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/97187eb8-02f9-4f03-9635-38dbf5fb1947.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 3, No. 1"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 3, No. 2"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 4, No. 1"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 6, No. 3-4"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 5, No. 1-2"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d689187d-5680-4d92-9f1a-50476485e6f5.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 5, No. 3-4"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b973f55a-7153-4d18-b3d6-4112783a2c8b.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 7, No. 1-2"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/c7e87a5d-0079-4c63-b202-f16b34eaae04.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 7, No. 3-4"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bce7de24-3eb4-4c70-aea3-98a3281b2612.json",
+            "label": {
+                "none": [
+                    "Committee on South Asian Women Newsletter Vol. 8, No. 1-2"
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}
