@@ -398,7 +398,5 @@
       ]
     }
   ],
-  "viewingHint": [
-    "paged"
-  ]
+  "viewingHint": "paged"
 }

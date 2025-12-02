@@ -902,7 +902,5 @@
       ]
     }
   ],
-  "viewingHint": [
-    "paged"
-  ]
+  "viewingHint": "paged"
 }

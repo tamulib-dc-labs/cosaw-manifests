@@ -692,7 +692,5 @@
       ]
     }
   ],
-  "viewingHint": [
-    "paged"
-  ]
+  "viewingHint": "paged"
 }

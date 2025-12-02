@@ -503,7 +503,5 @@
       ]
     }
   ],
-  "viewingHint": [
-    "paged"
-  ]
+  "viewingHint": "paged"
 }

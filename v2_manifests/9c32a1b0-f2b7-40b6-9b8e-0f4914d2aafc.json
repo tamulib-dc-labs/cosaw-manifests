@@ -734,7 +734,5 @@
       ]
     }
   ],
-  "viewingHint": [
-    "paged"
-  ]
+  "viewingHint": "paged"
 }
