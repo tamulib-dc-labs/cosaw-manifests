@@ -3,6 +3,8 @@ from csv import DictReader
 import base64
 import magic
 import requests
+from iiif_downgrade import IIIFv3toV2Converter
+import json
 
 
 class COSAWManifest:
@@ -42,9 +44,9 @@ class COSAWManifest:
     def build(self):
         based = self._get_based(self.row['url'])
         identifier = row['url'].replace(
-            "https://oaktrust.library.tamu.edu/bitstreams/",
+            "https://oaktrust.library.tamu.edu/server/api/core/bitstreams/",
             "").replace(
-            "/download",
+            "/content",
             ""
         )
         metadata = self.make_metadata()
@@ -68,29 +70,44 @@ class COSAWManifest:
             )
             canvas.create_thumbnail_from_iiif(url=f"https://api.library.tamu.edu/iiif/2/{based};{i}/info.json")
             i += 1
-        x = manifest.json(indent=4)
+        manifest_json = manifest.json(indent=4)
+        manifest_dict = json.loads(manifest_json)
+        self.make_v2(
+            manifest_dict,
+            f"https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/{identifier}.json",
+            f"v2_manifests/{identifier}.json",
+        )
         with open(f"manifests/{identifier}.json", 'w') as f:
-            f.write(x)
-        return f"{manifest_id}.json", row["Title"],
+            f.write(manifest_json)
+        return f"{manifest_id}.json", row["Title"]
+
+    @staticmethod
+    def make_v2(data, identifier, filename):
+        converter = IIIFv3toV2Converter(
+            manifest=data,
+            manifest_id=identifier,
+        )
+        converter.convert()
+        converter.save(filename)
+        return
 
 
 if __name__ == "__main__":
     with open('cosaw.csv', 'r') as f:
         reader = DictReader(f)
         collection = Collection(
-            id="https://tamulib-dc-labs.github.io/cosaw-manifests/collections.json",
+            id="https://tamulib-dc-labs.github.io/cosaw-manifests/collections2.json",
             label="COSAW Bulletins",
             type="Collection"
         )
         for row in reader:
-            if row['Is 200'] == 'y':
-                x = COSAWManifest(row)
-                data = x.build()
-                collection.make_manifest(
-                    id=data[0],
-                    label=data[1],
-                    type="Manifest"
-                )
+            x = COSAWManifest(row)
+            data = x.build()
+            collection.make_manifest(
+                id=data[0],
+                label=data[1],
+                type="Manifest"
+            )
         y = collection.json(indent=4)
         with open("collections.json", 'w') as f:
             f.write(y)

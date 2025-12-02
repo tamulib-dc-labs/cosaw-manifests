@@ -1,0 +1,938 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Committee on South Asian Women Newsletter Vol. 2, No. 3"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Extent"
+                ]
+            },
+            "value": {
+                "none": [
+                    "16 pages"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1984-22"
+                ]
+            }
+        }
+    ],
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "behavior": [
+        "paged"
+    ],
+    "items": [
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 1"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;1/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;1",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;1/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;1",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 2"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;2/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;2",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/2",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 3"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;3/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;3",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/3",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/3",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;3/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;3",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 4"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;4/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;4",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/4",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/4",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;4/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;4",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 5"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;5/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;5",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/5",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/5",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;5/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;5",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 6"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;6/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;6",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/6",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/6",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;6/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;6",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 7"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;7/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;7",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/7",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/7",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;7/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;7",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 8"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;8/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;8",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/8",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/8",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;8/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;8",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/9",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 9"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;9/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;9",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/9",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/9",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;9/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;9",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/10",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 10"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;10/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;10",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/10",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/10",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;10/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;10",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/11",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 11"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;11/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;11",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/11",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/11",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;11/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;11",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/12",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 12"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;12/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;12",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/12",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/12",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;12/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;12",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/13",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 13"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;13/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;13",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/13",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/13",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;13/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;13",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/13"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/14",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 14"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;14/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;14",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/14",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/14",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;14/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;14",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/15",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 15"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;15/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;15",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/15",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/15",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;15/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;15",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/16",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PDF Page 16"
+                ]
+            },
+            "height": 1650,
+            "width": 1275,
+            "thumbnail": [
+                {
+                    "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;16/full/638,/0/default.jpg",
+                    "type": "Image",
+                    "height": 825,
+                    "width": 638,
+                    "service": [
+                        {
+                            "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;16",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json",
+                            "format": "image/jpeg"
+                        }
+                    ],
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/anno_page/16",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/annotation/16",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;16/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 1650,
+                                "width": 1275,
+                                "service": [
+                                    {
+                                        "@id": "https://api.library.tamu.edu/iiif/2/aHR0cHM6Ly9vYWt0cnVzdC5saWJyYXJ5LnRhbXUuZWR1L3NlcnZlci9hcGkvY29yZS9iaXRzdHJlYW1zLzZjZmRmYWY5LTY3MTgtNDQ5Yy04MzNhLTc4M2JjMjYzMjg2NC9jb250ZW50;16",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/16"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
