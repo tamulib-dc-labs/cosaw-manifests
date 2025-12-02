@@ -33,6 +33,10 @@
             }
         }
     ],
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "behavior": [
+        "paged"
+    ],
     "items": [
         {
             "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/1",

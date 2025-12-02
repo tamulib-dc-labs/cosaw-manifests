@@ -54,6 +54,8 @@ class COSAWManifest:
             id=f"{manifest_id}.json",
             label=row["Title"],
             metadata=metadata,
+            rights=row["Rights"],
+            behavior="paged"
         )
         pages = int(self.row["Extent"].split(' pages')[0])
         i = 1
