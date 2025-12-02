@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/collections2.json",
+    "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/collections.json",
     "type": "Collection",
     "label": {
         "none": [
