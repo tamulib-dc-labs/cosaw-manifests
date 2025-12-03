@@ -18,7 +18,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/1",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/1",
           "@type": "sc:Canvas",
           "label": "PDF Page 1",
           "height": 1622,
@@ -34,12 +34,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/1"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/1"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/2",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/2",
           "@type": "sc:Canvas",
           "label": "PDF Page 2",
           "height": 1622,
@@ -55,12 +55,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/2"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/2"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/3",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/3",
           "@type": "sc:Canvas",
           "label": "PDF Page 3",
           "height": 1622,
@@ -76,12 +76,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/3"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/3"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/4",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/4",
           "@type": "sc:Canvas",
           "label": "PDF Page 4",
           "height": 1622,
@@ -97,12 +97,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/4"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/4"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/5",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/5",
           "@type": "sc:Canvas",
           "label": "PDF Page 5",
           "height": 1622,
@@ -118,12 +118,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/5"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/5"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/6",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/6",
           "@type": "sc:Canvas",
           "label": "PDF Page 6",
           "height": 1622,
@@ -139,12 +139,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/6"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/6"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/7",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/7",
           "@type": "sc:Canvas",
           "label": "PDF Page 7",
           "height": 1622,
@@ -160,12 +160,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/7"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/7"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/8",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/8",
           "@type": "sc:Canvas",
           "label": "PDF Page 8",
           "height": 1622,
@@ -181,12 +181,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/8"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/8"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/9",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/9",
           "@type": "sc:Canvas",
           "label": "PDF Page 9",
           "height": 1622,
@@ -202,12 +202,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/9"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/9"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/10",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/10",
           "@type": "sc:Canvas",
           "label": "PDF Page 10",
           "height": 1622,
@@ -223,12 +223,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/10"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/10"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/11",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/11",
           "@type": "sc:Canvas",
           "label": "PDF Page 11",
           "height": 1622,
@@ -244,12 +244,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/11"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/11"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/12",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/12",
           "@type": "sc:Canvas",
           "label": "PDF Page 12",
           "height": 1622,
@@ -265,12 +265,12 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/12"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/12"
             }
           ]
         },
         {
-          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/13",
+          "@id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/13",
           "@type": "sc:Canvas",
           "label": "PDF Page 13",
           "height": 1622,
@@ -286,7 +286,7 @@
                 "height": 1622,
                 "width": 1247
               },
-              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/13"
+              "on": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/13"
             }
           ]
         }
@@ -305,7 +305,7 @@
   "viewingHint": "paged",
   "structures": [
     {
-      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3",
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3",
       "type": "Range",
       "label": {
         "en": [
@@ -314,7 +314,7 @@
       },
       "items": [
         {
-          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/t1epnujsyf-miqesns2",
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/t1epnujsyf-miqesns2",
           "type": "Range",
           "label": {
             "en": [
@@ -323,17 +323,17 @@
           },
           "items": [
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/1",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/1",
               "type": "Canvas"
             },
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/2",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/2",
               "type": "Canvas"
             }
           ]
         },
         {
-          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/h636qbty1wt-miqetdnv",
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/h636qbty1wt-miqetdnv",
           "type": "Range",
           "label": {
             "en": [
@@ -342,13 +342,13 @@
           },
           "items": [
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/3",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/3",
               "type": "Canvas"
             }
           ]
         },
         {
-          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/h320gv6a2t6-miqetx9x",
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/h320gv6a2t6-miqetx9x",
           "type": "Range",
           "label": {
             "en": [
@@ -357,17 +357,17 @@
           },
           "items": [
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/4",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/4",
               "type": "Canvas"
             },
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/5",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/5",
               "type": "Canvas"
             }
           ]
         },
         {
-          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/s0q2lz7istn-miqeulim",
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/s0q2lz7istn-miqeulim",
           "type": "Range",
           "label": {
             "en": [
@@ -376,21 +376,21 @@
           },
           "items": [
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/6",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/6",
               "type": "Canvas"
             },
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/7",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/7",
               "type": "Canvas"
             },
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/8",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/8",
               "type": "Canvas"
             }
           ]
         },
         {
-          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/7jmi25iq1v5-miqew1en",
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/7jmi25iq1v5-miqew1en",
           "type": "Range",
           "label": {
             "en": [
@@ -399,21 +399,21 @@
           },
           "items": [
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/9",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/9",
               "type": "Canvas"
             },
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/10",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/10",
               "type": "Canvas"
             },
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/11",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/11",
               "type": "Canvas"
             }
           ]
         },
         {
-          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/nr520povyc-miqewr1r",
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/nr520povyc-miqewr1r",
           "type": "Range",
           "label": {
             "en": [
@@ -422,11 +422,11 @@
           },
           "items": [
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/12",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/12",
               "type": "Canvas"
             },
             {
-              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/13",
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/13",
               "type": "Canvas"
             }
           ]
