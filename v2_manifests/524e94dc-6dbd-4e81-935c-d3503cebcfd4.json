@@ -512,5 +512,253 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged", 
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 3, No. 2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/pnn40d583lg-miqh9t5s",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Cover Page"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/evun1wycg0g-miqhap7w",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report, Directory of Women's Groups"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/xkmgh5rzys-miqhjhp0",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Editors' Note and Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/tjdknsyk4dq-miqhjsrm",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Interview: Rita Bhatia, SACC Coordinator"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/4",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/5",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/6",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/7",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/gsotrupzwom-miqhkzqv",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Wife Beating-- The Silent Crime"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/8",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/uiokhdzrd8-miqhlf1t",
+          "type": "Range",
+          "label": {
+            "en": [
+              "South Asian Women in the US: A Statistical Overview"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/10",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/11",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/8vy4er4w5eg-miqhm80u",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Interview: Experience of Immigrating"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/12",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/13",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/mfo1e5hpco-miqhml8b",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Conference Report: Future of Feminism?"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/14",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/28nn53n3gpr-miqhn2cj",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Report: Sex Role Orientation of Indian Women in the US"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/15",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/16",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/17",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/vp596rrenxp-miqhne6h",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: In Search of Answers"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/18",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/19",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/bskwu97vals-miqho3vx",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/20",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/wa5qvyoz8or-miqhogsq",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Further Resources, Subscription Form"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/21",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4.json/range/0e5cvo77dkge-miqh9t5t/range/zc0sfkolz1j-miqhozw8",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Short Story: Tippy-Tongue in the Land of Yahoos"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/22",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/524e94dc-6dbd-4e81-935c-d3503cebcfd4/canvas/23",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

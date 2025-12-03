@@ -785,5 +785,382 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 5, No. 1-2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/w9rwpgvakhh-miqgf5h7",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Cover Page"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/9srb7rlkc2j-miqgfj07",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Editor's Note"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/mketfmfjvff-miqgg1dm",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/tj3ilk7fy9a-miqggcfz",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The Double-bind of Culture: An Indian Woman in the U.S."
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/4",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/5",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/ohniqbju4q-miqgh0eg",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Kanta Chandra Gupta"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/7",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/hybw5o2jwqd-miqgh9fw",
+          "type": "Range",
+          "label": {
+            "en": [
+              "A Day in the Life of AIWA"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/8",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/a5j2qtridc-miqghmia",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Between two worlds -- the old and the new"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/re9j5b8etf-miqghuv7",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The Ideal Match"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/10",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/94id1p1nzo8-miqgi6xy",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The Portrayal of Women's Issues in 'India Abroad'"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/11",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/12",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/13",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/14",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/n4islfwhci-miqgiqsr",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Asian Indian Investments: The Motel Industry"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/dbfhi48y3qf-miqgj0l2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Manager/Wife: Indian Women in the Motel Business"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/17",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/18",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/19",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/20",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/hzqrsbfsuuw-miqgjj2c",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Threats of Racial Violence Alarm Indians in Jersey City"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/21",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/9pq6oov2pm-miqgjv3o",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Manavi: A Profile"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/22",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/23",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/24",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/evsv5hyc2wt-miqgk631",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Minority of One"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/25",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/26",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/2usokirovoo-miqgkfs2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Indian Women Attorneys Fight Injustice in USA"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/27",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/81bug4ip0zj-miqgkqnb",
+          "type": "Range",
+          "label": {
+            "en": [
+              "South Asian Women's Groups"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/28",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/8mh0gbf1wu9-miqgl6on",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Berkshires Conference on the History of Women"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/29",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/30",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/zxgso3n4f0i-miqglk7m",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Reflections on Communalism"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/31",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/32",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/33",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/34",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/sem83zfp0nr-miqgm4xi",
+          "type": "Range",
+          "label": {
+            "en": [
+              "South Asian Immigrant Women: Selected Resources"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/35",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/77a8a12e-a007-4a4b-9705-77169be3b532.json/range/bvfglipdb54-miqgf5h8/range/9vfsdkbs7pa-miqgmati",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Call for Submissions, Selected Films on Immigrant Women"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/77a8a12e-a007-4a4b-9705-77169be3b532/canvas/36",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

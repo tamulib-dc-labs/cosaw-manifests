@@ -365,5 +365,214 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 4, No. 2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/ag665w1kkja-miqg9me4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Cover Page"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/rpa2ji62les-miqg9wz2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Exploration of the Sexual Self"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/2",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/2exv6ro812-miqgakrm",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Gender and Sexuality"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/4",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/5",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/7eurc0szfzj-miqgb5rj",
+          "type": "Range",
+          "label": {
+            "en": [
+              "South Asian Lesbian Concerns Voiced at Nairobi"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/kd67p4vh5v-miqgbf1f",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Sexual Statistics"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/7",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/t7ulufklofl-miqgbr42",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Muslim Women Boldly Speak Out"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/8",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/p30zovsb6v-miqgc39m",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Poem: Slaves"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/10",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/9c2jn2kj8wo-miqgcffk",
+          "type": "Range",
+          "label": {
+            "en": [
+              "A Blind Eye on India"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/11",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/12",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/syp2giu9dg8-miqgcopt",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Contact Information"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/13",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/piswei10khg-miqgcvsy",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Announcement, Conferences, Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/14",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/zn8ll54qaob-miqgd5lp",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters, Further Resources"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/69c752de-c539-47a5-9a82-2b3609c6429f.json/range/7pv15ycnp8n-miqg9me5/range/8k4l8wtvq72-miqgdng9",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/69c752de-c539-47a5-9a82-2b3609c6429f/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

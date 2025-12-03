@@ -1667,5 +1667,693 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 9, No. 1-4"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/echspq30qbb-miqgo211",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Cover Page"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/9tiego4r4we-miqgo3ex",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Table of Contents"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/b5xdltmqs8k-miqgphhd",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Contributors"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/5m2aoednzm6-miqgpquc",
+          "type": "Range",
+          "label": {
+            "en": [
+              "On Telling Tales"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/4",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/rzmyz2k2m4-miqgq7f2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "A Culture of One's Own: Situating Feminist Perspectives Inside Third World Cultures"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/5",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/6",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/7",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/8",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/9",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/10",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/5jwje05bjzr-miqgqrw5",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Risk"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/11",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/12",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/13",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/14",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/uknfo6uyy4i-miqgr9of",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Psyche"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/jhmgavlog7-miqgrrao",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The Search for Legitimacy: The Montreal South Asian Women's Centre"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/17",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/18",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/19",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/20",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/21",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/nnpx3x1qqus-miqgs6l6",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Meditation in the Search for Home"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/22",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/23",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/24",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/25",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/26",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/27",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/wgvmfciob3l-miqgsq6u",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Eighteen"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/28",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/f07kvyp63xk-miqgt2e5",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: Women Writing in India 600 B.C. to the Present"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/29",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/30",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/l1j0barp81e-miqgtjny",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: The Heart Breaks Free and the Wild One: Two Novellas"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/31",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/32",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/33",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/luz1jq04q1-miqgu7yz",
+          "type": "Range",
+          "label": {
+            "en": [
+              "For A Few More Days"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/34",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/fkg0i8jioj-miqgukbf",
+          "type": "Range",
+          "label": {
+            "en": [
+              "My Mother's Sermon"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/35",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/zuizvca8nn7-miqguxiw",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: The Inner Courtyard: Stories by Indian Women, Inner Spaces: New Writing by Women from Kerala, and Incantations and Other Stories"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/36",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/37",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/38",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/y3k2wnbg83-miqgvfz8",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Ten Years of Kali for Women Press: A Conversation with Ritu Menon"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/39",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/40",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/41",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/mw3xfot56b-miqgvx5a",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Eternity in His Eyes"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/42",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/3e9ddncpw72-miqgw6em",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: Siting Translation: History, Post-Structuralism and the Colonial Context"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/43",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/44",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/ds05ehg6qg-miqgww44",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Couch Notes"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/45",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/46",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/47",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/48",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/49",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/50",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/51",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/oyc8ycofob8-miqgzdfu",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: The Ethnic Strife: A Study of Asian Indian Women in the United States"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/52",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/zz6eiudd55-miqgzocw",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: Anandi Gopal"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/53",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/hxz2xu5e7d-miqgzyhp",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: Our Feet Walk the Sky: Women of the South Asian Diaspora"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/54",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/55",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/56",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/lyjwciaa0re-miqh0c6q",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The New Activists? South Asian Americans Organizing - An Interview with Sonia Shah"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/57",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/58",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/7i2748wn2d-miqh0nn7",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Constructing the Characters of Women in 'A Change of Skies'"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/59",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/60",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/61",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/ozrgyu0k018-miqh11ag",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/62",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/5n4yad4qs5-miqh1d4t",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Announcements/Call for Papers, Conferences/Seminars"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/63",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/accptuihjh8-miqh24og",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/64",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/65",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/ydkygdtbxq-miqh2eup",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW - Beginnings and Early History"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/66",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/67",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/68",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/69",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/70",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/g0lokv57b88-miqh2uqh",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Bulletin - Back Issues"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/71",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/72",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/73",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/wgny9f555ki-miqh5xds",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/74",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/75",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/wookeiuig7-miqh6814",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Race"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/76",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/a563tbmqnoh-miqh6t23",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Contact Information"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/77",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813.json/range/ifzoma3cemi-miqgo213/range/j4kujrejw9-miqh71mf",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Back Cover"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/83b34e26-1d80-4d27-b43c-f8b6439d5813/canvas/78",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

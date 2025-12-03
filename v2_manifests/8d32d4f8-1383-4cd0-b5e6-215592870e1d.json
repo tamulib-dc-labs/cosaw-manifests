@@ -680,5 +680,329 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 4, No. 3"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/j0bt2qzoe1e-miqf8dev",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Cover Page"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/j85xdwk09mp-miqf8rbo",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/g8jz6vmlkr-miqf9auz",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Women, Culture and Mental Health: Reflections on Sudhir Kakar's Reflections"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/3",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/4",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/5",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/563jr30yako-miqfa7z2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Measures of Stress: A Study of South Asian Women in Canada"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/6",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/7",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/c03awspd157-miqfascu",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Task Force Immigrants and Refugees in Canada"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/8",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/l3tijgafube-miqfb1bx",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Women's Suicide in Sri Lanka"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/9",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/10",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/11",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/12",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/13",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/14",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/7xeow7g27wd-miqfbl7n",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/vo2cyzu5kk9-miqfbye7",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The Matter With Mind: Diary of a Feminist"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/17",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/8qwu8gcvvqs-miqfc9me",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Psychiatric Problems Prevalent: Findings from Islamabad"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/18",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/xtp1ugxu4lf-miqfclh9",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Psychology of Women: A Conference Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/19",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/20",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/2mx2yewi6ry-miqfd0ov",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Sexuality, Lesbianism, and South Asian Feminism"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/21",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/22",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/7z528a3xeis-miqfdcr4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Facing a New Reality"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/23",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/24",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/25",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/26",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/e35f3yh5m6n-miqfdqxt",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Women and Mental Health: Selected Resources"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/27",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/3omy2sg724k-miqfe2m4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Third National Conference on Women's Studies: A Report from India"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/28",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/7k3hzzpvbrr-miqfed1k",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Conference Announcements"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/29",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/mvdmi5pe6il-miqfep5q",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/30",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d.json/range/7bfv9t73zw-miqf8dew/range/1i23uz2s5f2-miqff1ga",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Subscription Form, Upcoming Themes"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8d32d4f8-1383-4cd0-b5e6-215592870e1d/canvas/31",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

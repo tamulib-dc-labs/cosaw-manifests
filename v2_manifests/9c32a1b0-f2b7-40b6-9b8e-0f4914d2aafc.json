@@ -743,5 +743,341 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 4, No. 4"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/6roqx6piv19-miqfimhn",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Cover Page"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/knfnjn4icb-miqfj20b",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Editors' Note"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/hp54h9ensh4-miqfjiwp",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/enntp1158y-miqfjzou",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Amniocentesis and Legal Provisions Pertaining to It"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/4",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/5",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/gtyyh2zltbp-miqfkc2o",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The Shah Bano Case: An Update"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/7",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/8",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/m06mfneoin-miqfkqn7",
+          "type": "Range",
+          "label": {
+            "en": [
+              "South Asia Bulletin"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/10",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/mrmocm09syl-miqfl0os",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Inheritance of Property: Amendment of Hindu Succession Act"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/11",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/z27up2z0zfk-miqflcat",
+          "type": "Range",
+          "label": {
+            "en": [
+              "India: A Christian Law That Does Not Follow The Golden Rule"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/12",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/13",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/uwfe68ro5h-miqflot9",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Legal Status of Women in Bangladesh: Theory and Practice"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/14",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/9xigxfnqspa-miqfm1q3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Feminist Theology and Women in the Muslim World: An Interview with Riffat Hassan"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/16",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/17",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/18",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/19",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/20",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/foan1ixs8-miqfmfxn",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Removal of the Sex Bar in the Indian Legal Profession: An Historical Note"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/21",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/22",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/23",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/24",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/25",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/d6t702o469d-miqfn0ie",
+          "type": "Range",
+          "label": {
+            "en": [
+              "India: Rural Women Take the Lead"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/26",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/27",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/28",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/hgtis9mmtq8-miqfndeo",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Women of Pakistan: Indices of Status"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/29",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/rmwn7jydmvk-miqfnmg6",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/30",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/1449umndjyg-miqg6rsr",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Women and Law: Selected Resources"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/31",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/wl3qajxydo-miqg7635",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Information"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/32",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc.json/range/q5u9c4tt5eb-miqfimho/range/uonpg22hj5p-miqg7wxr",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/33",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/9c32a1b0-f2b7-40b6-9b8e-0f4914d2aafc/canvas/34",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
