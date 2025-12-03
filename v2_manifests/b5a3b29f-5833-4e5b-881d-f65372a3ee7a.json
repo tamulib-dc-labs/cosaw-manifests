@@ -365,5 +365,225 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 2, No. 2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/p3ib4yx1sj-miqjnv5z",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Editorial"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/4jmqki19xo8-miqjo8bw",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters and Announcements"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/2",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/h3lyi1we96m-miqjwl5i",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report: Madison chapter, Forthcoming Resource Guide"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/4",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/9a2hb7i1bd9-miqjx1sl",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Comment: Sexism in Advertising, Women's Groups"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/5",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/0c74c8xkobdo-miqjxow0",
+          "type": "Range",
+          "label": {
+            "en": [
+              "News in Brief"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/0c74c8xkobdo-miqjxow0/range/7umead0xo2-miqjynwp",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Bangladesh: No End to 'Femicides', Bangladesh: Film Project on Women"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/7",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/0c74c8xkobdo-miqjxow0/range/e9w84f0hnud-miqjz9oy",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Publication of Note, Poem: \"To My Mother\""
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/8",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/0c74c8xkobdo-miqjxow0/range/j2xy9fd9be-miqjzvld",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Nepal: Poor Women Lured Into Prostitution, Women's Group Forms in Ann Arbor"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/9",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/0c74c8xkobdo-miqjxow0/range/qcw2cos6xa-miqk0dia",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Sri Lanka: I'm Air Lanka, Fly Me! Sexism and Airline Advertisements, Sri Lanka: Women's Day Celebrated, Concerned Asian Women Protest Sex Tourism"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/10",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/0c74c8xkobdo-miqjxow0/range/et4wkugfitv-miqk1w4i",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "India: Motherhood Must Wait, India: Land Reforms Ignore Women"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/11",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/0c74c8xkobdo-miqjxow0/range/iljllrccxqp-miqk2j0j",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Pakistan: Afghan Women Refugees, Pakistan: Shame"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/12",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/vgj5794dy1-miqjy5w2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/13",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/14",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a.json/range/r5p5i60q0qn-miqjnv60/range/jd81bjqytdo-miqk1t6f",
+          "type": "Range",
+          "label": {
+            "en": [
+              "New Resources: Women in Asia; Women in Development"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/b5a3b29f-5833-4e5b-881d-f65372a3ee7a/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

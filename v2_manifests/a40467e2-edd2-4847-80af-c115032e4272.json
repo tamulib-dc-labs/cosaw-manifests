@@ -134,5 +134,93 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a40467e2-edd2-4847-80af-c115032e4272.json/range/939t89vsq8u-miqj85lj",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 1, No. 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a40467e2-edd2-4847-80af-c115032e4272.json/range/h11g3mcdg0b-miqj85li",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Editorial"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a40467e2-edd2-4847-80af-c115032e4272/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a40467e2-edd2-4847-80af-c115032e4272.json/range/939t89vsq8u-miqj85lj/range/o3v50nijmg-miqj8mj7",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW: An Introduction, Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a40467e2-edd2-4847-80af-c115032e4272/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a40467e2-edd2-4847-80af-c115032e4272.json/range/939t89vsq8u-miqj85lj/range/1yp18umhxej-miqj8w2q",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Newsbriefs, Feature: Pakistan"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a40467e2-edd2-4847-80af-c115032e4272/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a40467e2-edd2-4847-80af-c115032e4272.json/range/939t89vsq8u-miqj85lj/range/k5sxmd5wxrs-miqj9luj",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Profile: Bangladesh"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a40467e2-edd2-4847-80af-c115032e4272/canvas/4",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a40467e2-edd2-4847-80af-c115032e4272.json/range/939t89vsq8u-miqj85lj/range/btejtowbo9j-miqjad18",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Announcement, Bulletin Board"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a40467e2-edd2-4847-80af-c115032e4272/canvas/5",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

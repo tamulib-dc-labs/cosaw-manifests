@@ -701,5 +701,300 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 6, No. 3-4"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/2v5ip211m65-miqkiw0y",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Cover Page"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/7t0se5guq0y-miqkjc6r",
+          "type": "Range",
+          "label": {
+            "en": [
+              "India: Rural Women Take the Lead"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/2",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/3",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/4",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/5",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/lyl2umk7szh-miqkjxti",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: Women of Pakistan: Two Steps Forward, One Step Back?"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/7",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/8",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/wqnt8vov8vn-miqkku08",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Purdah Among Daudi Bohra Muslim Women"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/10",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/11",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/sopppgr59v-miqkl37b",
+          "type": "Range",
+          "label": {
+            "en": [
+              "India Alert - A Human Rights Organization"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/12",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/13",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/8w8193zppjn-miqkldb6",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Celebrating International Women's Day: A Report from Bombay"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/14",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/15",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/hp2mm13rxqf-miqklrm0",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Visitor"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/17",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/uajtf5oafxg-miqklzjn",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The Fall"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/18",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/l0094jiygmi-miqkm71k",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: Seventeen Syllables and Other Stories, Desert Run: Poems and Stories"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/19",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/20",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/21",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/22",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/cyc11hce44u-miqkn0j2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "A Critical Analysis of Modern Women's Freedom: Circa 1971"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/23",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/24",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/25",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/26",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/2km3swao3l7-miqkneqn",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Notes"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/27",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/lq34r5v842d-miqknxga",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/28",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/ys0z4n8xrh-miqko64b",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/29",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/30",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/31",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957.json/range/psnjmt9oky-miqkiw0z/range/hasabcoef5c-miqkoghy",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Back Cover"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/bafc2cb3-5ef6-432e-bc41-3143f6e58957/canvas/32",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

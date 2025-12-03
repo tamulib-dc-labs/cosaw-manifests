@@ -449,5 +449,296 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 3, No. 4"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/cgf6e0blhy-miqhr81i",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Cover Page"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/ynpdxzggmae-miqhrpxu",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report, Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/uchljw7niu-miqhs8f6",
+          "type": "Range",
+          "label": {
+            "en": [
+              "House of a Thousand Doors"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/ih8vmntbqwo-miqhsi1y",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Mosquitoes in the Main Room"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/4",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/5",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/6wjc7513zpp-miqhsslk",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Companion, To Bano Qudsa"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/j0p6pyp7ipj-miqhtzy8",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Clay"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/7",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/bb1c7x6ru8h-miqhu912",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Review: Mothers and Militants"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/8",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/d5g3aatgl5j-miqhuln8",
+          "type": "Range",
+          "label": {
+            "en": [
+              "For All Women On March 8, International Women's Day, Poem"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/osafem7t7ag-miqhv888",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The Living Room"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/10",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/2m4hq3xvv4u-miqhvems",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Homesickness"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/11",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/qxes2vu1xj-miqhvo5u",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Drizzle, Mousetrap"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/12",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/sdun71i14u-miqhw4ij",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Blood, Poem"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/13",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/mu14xtj732h-miqhwc5n",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/14",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/kkv12asne1-miqhwl5r",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Love in Black and White"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/d8lu3y5hin-miqhx5h9",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Poem"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/17",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/9rs6al5u8n-miqhxhi7",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The Bride"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/18",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/b6duqj6l42s-miqhy0ju",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Comes the Dawn"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/19",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/651c0508-8e23-47f9-9170-d854ac580879.json/range/nr8wl32xfp-miqhr81j/range/li8r91dconp-miqhyalf",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Further Resources, Conferences, Subscription Form"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/651c0508-8e23-47f9-9170-d854ac580879/canvas/20",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

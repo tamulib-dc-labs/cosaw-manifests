@@ -449,5 +449,252 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 4, No. 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/lfjkqh645gk-miqjc9yb",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Cover Page"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/2552mskkrkx-miqjcmgo",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters, Editors' Note"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/0afmhgefkztg-miqjd015",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Gender Inequalities in Secular India - A Case Study of Personal Law"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/3",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/4",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/mgoeho2pbr-miqjda3n",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Further Resources on Shah Bano Debate"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/5",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/by2eff8kugl-miqjdkbq",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book Reviews"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/by2eff8kugl-miqjdkbq/range/mvgtwqkp1d-miqjdubw",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Forging Capitalist Patriarchy: The Economic and Social Transformation of Feudal Sri Lanka and Its Impact on Women"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/6",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/7",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/by2eff8kugl-miqjdkbq/range/8yq6zvxs6em-miqje7l7",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Women in a Changing Society"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/8",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/q5la7ojajg-miqjeiek",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Buddhist Nuns Make Comeback to Sri Lanka - To Monks' Dislike"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/rdebjq3uo7l-miqjf3ca",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Announcement"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/10",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/9pmevdlk9l9-miqjf939",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Impact on Ahmedabad Disturbances on Women"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/11",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/12",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/13",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/14",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/1i9iskxu855-miqjfni7",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/8zcnrnszuu3-miqjfv04",
+          "type": "Range",
+          "label": {
+            "en": [
+              "The Betrayal of Superwoman"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/16",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/17",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/18",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/527la1ko87b-miqjg5n0",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Order Form and Call for Papers"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/19",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9.json/range/ez1twxvl8gg-miqjc9yc/range/oodwhl2okn-miqjgkgb",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/a426521b-ef06-4cdb-b391-ab7b1b43dcd9/canvas/20",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
