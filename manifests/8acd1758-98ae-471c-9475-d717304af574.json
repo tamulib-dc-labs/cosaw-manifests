@@ -783,5 +783,136 @@
                 }
             ]
         }
-    ]
+    ],
+    "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 1, No. 5-6"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/t1epnujsyf-miqesns2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/1",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/h636qbty1wt-miqetdnv",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/h320gv6a2t6-miqetx9x",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Comment: Western Feminism and the Others, Relevant Training for Asian Women Workers Stressed"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/4",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/5",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/s0q2lz7istn-miqeulim",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Feature: South Asian Women at Home and Abroad"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/6",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/7",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/8",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/7jmi25iq1v5-miqew1en",
+          "type": "Range",
+          "label": {
+            "en": [
+              "News in Brief"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/9",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/10",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/11",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574.json/range/j3zd3t4vsmc-miqesns3/range/nr520povyc-miqewr1r",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Announcements, Poem, Subscription Form"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/12",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/8acd1758-98ae-471c-9475-d717304af574/canvas/13",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

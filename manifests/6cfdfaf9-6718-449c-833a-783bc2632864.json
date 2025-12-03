@@ -951,5 +951,269 @@
                 }
             ]
         }
-    ]
+    ],
+    "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 2, No. 3"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/epee6rdwuc-miqec2jg",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Editorial"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/ixevl2wy23k-miqectw2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters, Subscription Form"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/0u22px9j52b-miqedeqk",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/hf1lhdsdl9w-miqee8ub",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Comment"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/hf1lhdsdl9w-miqee8ub/range/otximvvdfb-miqeeu5f",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Muslim Personal Law writ petition"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/4",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/hf1lhdsdl9w-miqee8ub/range/098o2uvmddnx-miqefp3a",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Amnesty International"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/5",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/w2jor7tnzfq-miqeelva",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Report: Class Caste and Women's Movements in India: A Report on a Talk by Gail Omvedt"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/bxptfsd59b9-miqeh1y2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "New Publication: On Dowry"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/7",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/6psida8xbbt-miqehxj2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Immigrant News"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/6psida8xbbt-miqehxj2/range/mx64dhhgvgg-miqeisaw",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Sari Squad in Europe and Pakistan Democratic Alliance Formed"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/8",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/6psida8xbbt-miqehxj2/range/cghihc55zx4-miqejd5r",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "South Asian Women's Group Caters to Immigrant Women"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/9",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/ockhznmjudk-miqejx9v",
+          "type": "Range",
+          "label": {
+            "en": [
+              "India"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/10",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/845k4enfcsp-miqekpco",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Pakistan, Silent Voices"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/11",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/v1u4fv9skp-miqel6px",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Sri Lanka and Nepal, Resources"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/12",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/sd5128y7rm-miqem2yo",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Film"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/13",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/rwhd6pr8y9r-miqemjra",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/14",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864.json/range/5g3ep20xk1-miqec2jh/range/rdsntql5kvr-miqen2dn",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Fellowships, Conference, Job Opening"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/6cfdfaf9-6718-449c-833a-783bc2632864/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
