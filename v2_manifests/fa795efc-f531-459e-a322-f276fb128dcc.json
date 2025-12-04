@@ -491,5 +491,293 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 3, No. 3"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/9asbhsuhx1n-mirmmf27",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Cover Page"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/it8pizm6uz8-mirmmx1b",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/68v4zbzcyt9-mirmnaeq",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Bhopal Update"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/68v4zbzcyt9-mirmnaeq/range/0o1wk49aq1u-mirmnhik",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Women campaign for the right to know"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/3",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/68v4zbzcyt9-mirmnaeq/range/da33ajatv99-mirmntvr",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Manishi interview with Mira Sadgopal"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/4",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/68v4zbzcyt9-mirmnaeq/range/ccm8gzeq32o-mirmo3si",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "\"A World Without Tomorrow\""
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/5",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/68v4zbzcyt9-mirmnaeq/range/1dszqjhi79-mirmoati",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Research Report on Gynaecological Disorders of Gas-affected Women"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/6",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/7",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/k2d1ajekzm-mirmomys",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Publications on Women and Health"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/8",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/bf60p6l9xz-mirmovj1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Interview with Rita Basuray"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/9",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/10",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/11",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/w1y1db01h5t-mirmp4q8",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Injectable Contraceptives: A Better Deal?"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/12",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/with55u7w8-mirmplmj",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Sex-determination Tests"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/13",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/ydvsnw0jsi7-mirmpups",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book review: Gender and Infant Death: Thoughts on Latin American in Relationship to South Asia"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/14",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/15",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/bigxhure8u-mirmq62x",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Feminism Comes of Age from Mexico to Nairobi"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/17",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/d69ccbvrb25-mirmqeoo",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/18",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/m0y1nrife3g-mirmqmut",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Book review: Beyond their Reach: Health Care for Rural Women"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/19",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/20",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/4xnsfme0tw8-mirmr1mq",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Conference Announcements and Reports"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/21",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/fa795efc-f531-459e-a322-f276fb128dcc.json/range/neelqzq4m0j-mirmmf28/range/xacpqqnzoi-mirmr807",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Activities and Bulletin Subscription"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/fa795efc-f531-459e-a322-f276fb128dcc/canvas/22",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

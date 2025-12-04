@@ -386,5 +386,207 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 2, No. 4"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/bwde26jyqwq-mirk5umr",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Editorial"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums/range/bzr0djrdcsq-mirk6b16",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report: Meeting, Monograph"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums/range/kj6equ5n81m-mirk6o1b",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums/range/1c9e4y54no5-mirk714y",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Comment: Women Political Prisoners"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/4",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/5",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums/range/4rw9rx3x2tl-mirl4pzs",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Immigrant News: Wife Abuse"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums/range/98b00u1cc3p-mirl5b4x",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Oxfam Study Tour, News From: Nepal, India, Pakistan, Bangladesh, Sri Lanka"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/7",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/8",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/9",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/10",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/11",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums/range/ghhe88htfzf-mirl6e8z",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/12",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums/range/nmxwlj3xtkm-mirl6pz6",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Publications"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/13",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/14",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums/range/j7ti6yqdin-mirl97ym",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Wisconsin Conference papers on women, Film: Sweet Jail"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums/range/bb1uz7uzkcw-mirl9qzk",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Fellowships for UN Decade on Women, Conference Notices, Subscription Form"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920.json/range/dtwrvt7tbv6-mirk5ums/range/w09htmbwom-mirla9lu",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Announcement"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/d7f38e0d-34ac-443d-a815-892b2f2d7920/canvas/17",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

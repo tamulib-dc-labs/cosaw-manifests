@@ -365,5 +365,236 @@
       "@id": null
     }
   },
-  "viewingHint": "paged"
+  "viewingHint": "paged",
+  "structures": [
+    {
+      "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Vol. 2, No. 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/rsgmhucjxj-mirlwb2f",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Editorial"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/kcosze360no-mirm2ilr",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Letters"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/2",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/ksfk822adds-mirm33bd",
+          "type": "Range",
+          "label": {
+            "en": [
+              "COSAW Report"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/3",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/izx8uq06oe7-mirm3blf",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Comment: Dowry Death Ruling"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/4",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/8t7hcks882s-mirm3sf8",
+          "type": "Range",
+          "label": {
+            "en": [
+              "News in Brief"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/8t7hcks882s-mirm3sf8/range/hjz2slvjd8q-mirm41fp",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "India: Parsi Women Cry Discrimination, Serious Films Make the Break into Commercial Success"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/5",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/8t7hcks882s-mirm3sf8/range/kfc1mkf57r-mirm4mmo",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Pakistan: A Woman Flogged, Law Punishes Rape Victims"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/6",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/8t7hcks882s-mirm3sf8/range/2nq4w0t06g4-mirm4yyw",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Sri Lanka: Working Mothers Seek Longer Maternity Leaves, Women Now Live Longer Than Men, But..., More Jobless Women"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/7",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/8t7hcks882s-mirm3sf8/range/y87l1ge766a-mirm5omh",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Nepal: Women Take Back Seat in Development"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/8",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/8t7hcks882s-mirm3sf8/range/98nb8g4k98f-mirm5yly",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Bangladesh: Women Form Backbone of Unique Rural Bank, Islamic Women's Group to Form, Pakistan: Increase in Literacy"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/9",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/4eziq99sj1w-mirm6t0l",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Conferences, Announcements, Publications"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/10",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/nceb31z9to-mirm712e",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Research Index"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/11",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/12",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/13",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/14",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/00q318gqdffz-mirm7f34",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Prose Poem"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/15",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/v2_manifests/f2fb837c-20f3-447e-a979-49b03275375d.json/range/ju88ag42ue-mirlwb2g/range/vsv3mmqh2so-mirm7nfo",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Subscription Form"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tamulib-dc-labs.github.io/cosaw-manifests/manifests/f2fb837c-20f3-447e-a979-49b03275375d/canvas/16",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
