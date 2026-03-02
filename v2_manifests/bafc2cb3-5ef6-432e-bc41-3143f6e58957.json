@@ -11,6 +11,45 @@
     {
       "label": "Date",
       "value": "1988"
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "South Asia",
+        "India",
+        "Pakistan"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Feminism",
+        "Women's rights"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "This issue of the COSAW Bulletin examines women's movements, activism, and issues facing women in South Asia. It profiles grassroots organizing, cultural and educational initiatives, discussions of feminist theory, human rights concerns, and book reviews. The content reflects wide-ranging perspectives centered on women's rights and social change in South Asian contexts."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [

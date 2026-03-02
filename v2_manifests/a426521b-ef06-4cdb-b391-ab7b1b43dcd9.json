@@ -11,6 +11,50 @@
     {
       "label": "Date",
       "value": "1986"
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "India",
+        "Sri Lanka",
+        "United States",
+        "Canada"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Women--Legal status, laws, etc.",
+        "Women--Religious aspects",
+        "Caste--India",
+        "Feminism",
+        "Fundamentalism",
+        "Women immigrants"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "This bulletin addresses issues concerning women's status and experiences in South Asia and among immigrants in North America. The content includes articles on legal, religious, and socio-economic challenges faced by women in India, Pakistan, Bangladesh, Sri Lanka, and Nepal, as well as case studies, reviews, and reports on fundamentalism, communal violence, migration, and feminist movements. The publication focuses on gender inequalities, religious law, feminism, and the intersection of tradition and modernity in South Asian contexts."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [

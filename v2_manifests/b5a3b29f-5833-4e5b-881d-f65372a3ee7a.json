@@ -11,6 +11,46 @@
     {
       "label": "Date",
       "value": "1984-21"
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "South Asia",
+        "North America"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Women--North America",
+        "Women's rights",
+        "Feminism",
+        "Women in development"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "This bulletin reports on women's groups, activism, research interests, and social conditions affecting women in South Asia and among the South Asian diaspora in North America. It covers topics such as sexism in advertising, violence against women, women's participation in development, and the formation of women's networks and organizations. The publication reflects community organizing, scholarly exchange, and the sharing of resources related to South Asian women."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [

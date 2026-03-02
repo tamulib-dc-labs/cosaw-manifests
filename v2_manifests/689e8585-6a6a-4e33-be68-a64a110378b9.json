@@ -11,6 +11,47 @@
     {
       "label": "Date",
       "value": "1988"
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "India",
+        "Nepal"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Women--Societies and clubs",
+        "Women--India",
+        "Women's rights--India",
+        "Feminism--India",
+        "Women--Political activity--India"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "This bulletin discusses the activities, organizational structures, and grassroots campaigns of women's groups and movements focused on South Asian women. It highlights issues such as violence against women, legal aid, economic empowerment, participatory education, coalition building, and community outreach. Multiple case studies and interviews reveal strategies and struggles related to women's rights and activism."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [

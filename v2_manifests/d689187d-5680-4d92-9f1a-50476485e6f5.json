@@ -11,6 +11,47 @@
     {
       "label": "Date",
       "value": "1987"
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Nepal"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Economic development",
+        "Feminism",
+        "Women--Education"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "This issue of the COSAW Bulletin focuses on the impact of economic development, gender, and class on the status of women in South Asia, with specific coverage of grassroots movements, legal issues affecting Muslim women, women’s access to education, and rural credit programs. It includes perspectives and case studies from India, Pakistan, Bangladesh, and Nepal, examining both macro-level and community-based dynamics. The publication blends analytical articles, personal reflections, and reports from women's organizations in South Asia and among immigrant communities in the U.S."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [

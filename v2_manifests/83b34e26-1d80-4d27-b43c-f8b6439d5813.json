@@ -11,6 +11,51 @@
     {
       "label": "Date",
       "value": ""
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "South Asia",
+        "United States"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Women--United States",
+        "Sex discrimination against women",
+        "Gender identity",
+        "Culture",
+        "Women--Violence against",
+        "Feminism",
+        "Immigrant women",
+        "Women's rights",
+        "Social movements"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "This bulletin focuses on the status, achievements, activism, and struggles of South Asian women both in South Asia and among immigrant communities, especially in North America. The publication includes essays, reviews, interviews, creative writing, and reports related to women's movements, cultural studies, gender, and social issues. Coverage extends to topics like violence, development, immigration, and women's involvement in media and publishing."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [

@@ -11,6 +11,53 @@
     {
       "label": "Date",
       "value": ""
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "India",
+        "United States"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Hinduism and politics",
+        "Women--India--Social conditions",
+        "Communalism--India",
+        "Muslims--India--Social conditions",
+        "Secularism--India",
+        "Bharatiya Janata Party",
+        "Rashtriya Swayamsevak Sangh",
+        "Vishwa Hindu Parishad",
+        "Religious fundamentalism",
+        "Right-wing extremists",
+        "Political violence"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "This bulletin focuses on essays, reports, and creative writing exploring the intersection of gender, religion, and politics in India, especially regarding women and right-wing Hindu movements such as the BJP and RSS. The issue addresses communal violence, the representation and involvement of women, particularly Muslim women, in nationalist discourse, and critiques the ideological manipulation and mobilization by the Hindu Right. Significant attention is given to the impact of these movements on secularism, democracy, and minority rights."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [

@@ -11,6 +11,45 @@
     {
       "label": "Date",
       "value": "1983-03"
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "South Asia",
+        "India",
+        "Pakistan"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Women's rights",
+        "Feminism"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "The bulletin provides commentary, news, and reports on women's issues across South Asia and the South Asian diaspora, focusing on activism, incidents involving police, conferences, and organizational developments. Featured content includes coverage of the Saheli incident in India, women's demonstrations in Pakistan, the establishment of women's studies centers, and updates on immigrant and refugee women in North America. The publication emphasizes networking, resource-sharing, and awareness-building among scholars and activists concerned with South Asian women."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [

@@ -11,6 +11,51 @@
     {
       "label": "Date",
       "value": "1983-01"
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "South Asia",
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Nepal",
+        "Sri Lanka",
+        "Bhutan"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Women--Social conditions",
+        "Women's rights",
+        "Feminism",
+        "Committee on South Asian Women"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "The bulletin inaugurates the Committee on South Asian Women (COSAW), focusing on issues of oppression and violence against women in South Asia and among diaspora communities. It discusses social conditions, legal issues, activism, and efforts to build networks for support and information. The publication includes news, organizational updates, and commentary on women's status, rights, and struggles throughout Bangladesh, India, Pakistan, Nepal, Sri Lanka, Bhutan, and related diasporic communities."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [

@@ -11,6 +11,50 @@
     {
       "label": "Date",
       "value": "1983-05"
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "South Asia",
+        "India",
+        "Sri Lanka",
+        "Pakistan",
+        "Nepal",
+        "Bangladesh"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Feminism",
+        "Women's rights",
+        "Labor",
+        "Women--Societies and clubs"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "This bulletin provides news, commentary, resources, and reports concerning the lives and activism of women in South Asia. Major topics include women's labor conditions, feminist movements, legal issues affecting women, organizational profiles, and literary contributions such as poetry and short stories."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [

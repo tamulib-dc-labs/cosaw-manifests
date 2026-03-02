@@ -11,6 +11,54 @@
     {
       "label": "Date",
       "value": "1984-24"
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Nepal",
+        "Sri Lanka",
+        "South Asia"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Women--South Asia--Social conditions",
+        "Women's rights",
+        "Feminism",
+        "Women--Political activity",
+        "Women--Employment",
+        "Women--Legal status, laws, etc.",
+        "Women--Education",
+        "Women--Societies and clubs"
+      ]
+    },
+    {
+      "label": "description",
+      "value": "This bulletin explores women's status, activism, research, legal issues, and roles in South Asian countries. It highlights topics such as women's movements, legal developments, reproductive health, employment, dowry, and representation in media and film. The bulletin also includes announcements, research indexes, and reports from relevant conferences and organizations."
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "creator",
+      "value": "Committee on South Asian Women"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+      "label": "type",
+      "value": "Text"
     }
   ],
   "sequences": [
